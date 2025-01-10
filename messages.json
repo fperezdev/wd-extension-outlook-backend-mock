@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAPy1GIZSbulGhbMMucJMBQ4=",
+    "subject": "Test 9 - O365",
+    "receivedDate": "2025-01-09T15:34:00",
+    "category": 222
+  },
+  {
+    "id": 2,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAIC8fobMpCxHt4IhapEYCvM=",
+    "subject": "Test 8 - O365",
+    "receivedDate": "2025-01-09T14:22:00",
+    "category": 333
+  },
+  {
+    "id": 3,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQANVGZVsVLVdMo/VRPc1zCE4=",
+    "subject": "Test 7 - O365",
+    "receivedDate": "2025-01-09T13:11:00",
+    "category": 444
+  },
+  {
+    "id": 4,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQANkozTAoDEZDq65iD+sXm/k=",
+    "subject": "Test 6 - O365",
+    "receivedDate": "2025-01-09T12:45:00",
+    "category": 222
+  },
+  {
+    "id": 5,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAHSEJ6p5ARlNm0vhf3HnWUs=",
+    "subject": "Test 5 - O365",
+    "receivedDate": "2024-08-21T11:30:00",
+    "category": 333
+  },
+  {
+    "id": 6,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAGYcO8g5x0pAkTxMmdzGM28=",
+    "subject": "Test 4 - O365",
+    "receivedDate": "2024-08-21T10:15:00",
+    "category": 444
+  },
+  {
+    "id": 7,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAGAhPOfQGGBNsJFMaoHXlNw=",
+    "subject": "Test 3 - O365",
+    "receivedDate": "2024-08-21T09:05:00",
+    "category": 222
+  },
+  {
+    "id": 8,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAHEYu4IABv1HuYuwWBWLyfA=",
+    "subject": "Test 2 - O365",
+    "receivedDate": "2024-08-21T08:50:00",
+    "category": 333
+  },
+  {
+    "id": 9,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAJizA8weyCpJnG0kPon0geA=",
+    "subject": "Test 1 - O365",
+    "receivedDate": "2024-08-21T07:40:00",
+    "category": 444
+  },
+  {
+    "id": 10,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAIrHjTMZPZ9OqHE1smqWCQY=",
+    "subject": "Test 0 - O365",
+    "receivedDate": "2024-08-21T06:25:00",
+    "category": 222
+  },
+  {
+    "id": 11,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQALil2ONtb+NJrENa9JsvFAI=",
+    "subject": "Test 9 - O365",
+    "receivedDate": "2024-08-20T17:45:00",
+    "category": 333
+  },
+  {
+    "id": 12,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAKn+dDoR3XBJjuZSumJnZoE=",
+    "subject": "Test 8 - O365",
+    "receivedDate": "2024-08-20T16:30:00",
+    "category": 444
+  },
+  {
+    "id": 13,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAMti37Z3qkZIsGNLE2B3MBY=",
+    "subject": "Test 7 - O365",
+    "receivedDate": "2024-08-20T15:20:00",
+    "category": 222
+  },
+  {
+    "id": 14,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAELvGMp7addJrHtZFX2M0OI=",
+    "subject": "Test 6 - O365",
+    "receivedDate": "2024-08-20T14:10:00",
+    "category": 333
+  }
+]
