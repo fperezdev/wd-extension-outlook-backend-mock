@@ -83,7 +83,20 @@ server.listen(3001, () => {
 
   rl.prompt();
   rl.on("line", (line) => {
-    io.emit("message", { text: line.trim() });
+    const text = line.trim();
+    if (text === "message") {
+      const message = {
+        id: 1,
+        threadId: "asdasdsa",
+        subject: "This is a new message subject",
+        receivedDate: "2025-01-10T08:39:35",
+        category: 222,
+      };
+      io.emit("message", message);
+    } else {
+      io.emit("message", { text: line.trim() });
+    }
+
     console.log("Message sent to clients");
     rl.prompt();
   });
