@@ -1,5 +1,12 @@
 [
   {
+    "id": 0,
+    "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAHmo5hgmr9NCqfJgPn9uqRw=",
+    "subject": "hola prueba 1345",
+    "receivedDate": "2025-01-10T13:45:20",
+    "category": 222
+  },
+  {
     "id": 1,
     "threadId": "AAQkAGU5MDFlZWNlLTQzYmUtNGM0YS1iZTY2LWQxYjdkN2FkN2IwMwAQAPy1GIZSbulGhbMMucJMBQ4=",
     "subject": "Test 9 - O365",

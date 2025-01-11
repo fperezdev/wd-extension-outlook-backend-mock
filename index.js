@@ -40,29 +40,25 @@ const configuration = {
     },
     {
       id: 444,
-      name: "Reclamo",
+      name: "Saludos",
     },
   ],
 };
 
 io.on("connection", (socket) => {
   console.log("New client connected", socket.id);
-  socket.emit("messages", {
-    data: {
-      messages,
-      sla: configuration.sla,
-      categories: configuration.categories,
-    },
+  socket.emit("overview", {
+    messages,
+    sla: configuration.sla,
+    categories: configuration.categories,
   });
 
   socket.on("action", (msg) => {
     if (msg.action === "connect")
-      socket.emit("messages", {
-        data: {
-          messages,
-          sla: configuration.sla,
-          categories: configuration.categories,
-        },
+      socket.emit("overview", {
+        messages,
+        sla: configuration.sla,
+        categories: configuration.categories,
       });
     console.log("Received action:", msg);
   });
